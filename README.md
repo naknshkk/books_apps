@@ -23,3 +23,5 @@ Things you may want to cover:
 
 * ...
 # books_apps
+
+Railsの教科書のfirstapp
